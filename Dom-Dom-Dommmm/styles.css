@@ -1,0 +1,19 @@
+ .square {
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    padding: 5em;
+    margin: .5em;
+} 
+
+.Alex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.squareNum {
+    color: white;
+}
